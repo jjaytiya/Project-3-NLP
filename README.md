@@ -22,7 +22,7 @@ To understand seller concerns and priorities:
 - **Output (y):** Source platform (`merged_df['source']`).
 
 ## **Key Findings**  
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/jjaytiya/Project-3-NLP/blob/main/images/Top10_mentions.png)
 
 ### **Topic Trends by Platform**  
 1. **Shipping**  
