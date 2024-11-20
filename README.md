@@ -33,13 +33,13 @@ To understand seller concerns and priorities:
 
 3. **Common Themes**  
    - Both platforms emphasize product customization, marketplace integration, and shipping.  
-   - Printful users frequently discuss clothing products and specific platform features.  
+   - Printful users frequently discuss more on products and especially clothes.  
    - Printify users often highlight concerns with new feature updates and seek platform support.
 
 ## **Conclusions**  
 - Sellers on both platforms prioritize customization, shipping, and marketplace compatibility.  
 - Printful users may be more focused on product niches like clothing and detailed platform features.  
-- Printify users appear to value flexibility and seek ongoing platform updates and support.
+- Printify users appear to seek for support.
 
 This analysis provides actionable insights into what factors matter most to POD sellers, helping aspiring entrepreneurs navigate the journey to success.
 ```
