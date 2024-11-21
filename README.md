@@ -10,36 +10,35 @@ Many sellers struggle to identify where to start and what factors contribute to 
 
 ## **Approach**  
 To understand seller concerns and priorities:  
-1. Data was scraped from Reddit communities focused on Printify and Printful.  
+1. Data was retrieved from Reddit's API for communities focused on Printify and Printful. 
 2. Text preprocessing techniques were applied, including:  
-   - Removing special characters.  
-   - Tokenizing, lemmatizing, and stemming words.  
-   - Vectorizing text data for analysis.  
+   - Removing special characters  
+   - Tokenizing, lemmatizing, and stemming words  
+   - Vectorizing text data for analysis  
 3. Analysis was conducted to identify commonly mentioned topics and patterns.  
 
 ### **Dataset Structure**  
-- **Input (X):** Combined post titles and body text (`merged_df['title'] + " " + merged_df['body']`).  
-- **Output (y):** Source platform (`merged_df['source']`).
+- **Input (X):** Combined post titles and body text (`merged_df['title'] + " " + merged_df['body']`)
+- **Output (y):** Source platform (`merged_df['source']`)
 
 ## **Key Findings**  
 ![alt text](https://github.com/jjaytiya/Project-3-NLP/blob/main/images/Top10_mentions.png)
 
 ### **Topic Trends by Platform**  
 1. **Shipping**  
-   - Ranked #1 for Printify but #3 for Printful, showing its slightly higher importance for Printify users.  
+   - Ranked #1 for Printify but #3 for Printful, showing its slightly higher importance for Printify users  
 
 2. **Etsy Integration**  
-   - Ranked #2 for Printify but #1 for Printful, suggesting Etsy is equally or more crucial to Printify sellers.  
+   - Ranked #2 for Printify but #1 for Printful, suggesting Etsy is equally or more crucial to Printify sellers  
 
 3. **Common Themes**  
-   - Both platforms emphasize product customization, marketplace integration, and shipping.  
-   - Printful users frequently discuss more on products and especially clothes.  
-   - Printify users often highlight concerns with new feature updates and seek platform support.
-
+   - Both platforms emphasize product customization, marketplace integration, and shipping  
+   - Printful users more frequently discuss products, especially clothes
+   - Printify users commonly raise concerns about feature updates and seek platform support
 ## **Conclusions**  
-- Sellers on both platforms prioritize customization, shipping, and marketplace compatibility.  
-- Printful users may be more focused on product niches like clothing and detailed platform features.  
-- Printify users appear to seek for support.
+- Sellers on both platforms prioritize customization, shipping, and marketplace compatibility  
+- Printful users may be more focused on product niches like clothing and detailed platform features  
+- Printify users appear to seek support
 
 This analysis provides actionable insights into what factors matter most to POD sellers, helping aspiring entrepreneurs navigate the journey to success.
 ```
